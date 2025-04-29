@@ -1,1 +1,2 @@
 # Prodigy_FS_04
+This project is a real-time chat application built using Flask and WebSocket technology via Flask-SocketIO. It allows multiple users to send and receive messages instantly in a shared chat room. Users can enter their names and participate in the conversation through a simple web interface. All messages are broadcast to connected clients in real time. The application runs entirely in a single Python file for easy setup and demonstration.
